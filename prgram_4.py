@@ -7,3 +7,8 @@ print("Number 1 is: " , b)
 
 
 print("Sum is: ", a + b)
+print("Sub is: ", a - b)
+print("Mul is: ", a * b)
+print("A is greater than B : ", a > b)
+print("A is Smaller than B : ", a < b)
+print("A Square B: ", a**b)
